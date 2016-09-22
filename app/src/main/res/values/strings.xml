@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fingerprint Attendance</string>
+    <string name="label_dashboard">Fingerprint Attendance</string>
+    <string name="label_sign_on">Sign On</string>
+    <string name="label_records">Records</string>
+    <string name="label_enroll">Enroll</string>
+    <string name="label_history">History</string>
+
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="btn_enroll">Enroll</string>
+
+    <string name="msg_left_thumb">Left Thumb</string>
+    <string name="msg_right_thumb">Right Thumb</string>
+
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="other_paired_devices">Other Available Devices</string>
+    <string name="btn_scan">Scan</string>
+
+    <string name="scanning">scanning for devices…</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <string name="bt_not_enabled">Bluetooth not enabled.</string>
+
+    <string name="err_msg_input">Invalid Input.</string>
+    <string name="err_no_internet">Error! No Internet Connection.</string>
+    <string name="err_network_timeout">Error! Network Timeout.</string>
+
+    <string name="title_enrolled_users">Enrolled Users</string>
+    <string name="title_enroll">Enroll</string>
+    <string name="title_sign_on">Sign On</string>
+    <string name="title_attendance_history">Attendance History</string>
+
+</resources>    
+

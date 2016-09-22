@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OnePass</string>
+    
+    <string name="title_activity_login">登录</string>
+    <string name="title_activity_menu">菜单</string>
+    <string name="title_activity_sign_on">签到</string>
+    <string name="title_activity_sign_off">签退</string>    
+    <string name="title_activity_records">认证记录</string>
+    <string name="title_activity_employees">用户列表</string>
+    <string name="title_activity_employee">用户详情</string>
+    <string name="title_activity_utilities">系统工具</string>    
+    <string name="title_activity_system">系统设置</string>
+    <string name="title_activity_setserver">服务器设置</string>
+    <string name="title_activity_enroluser">登记用户</string>
+    <string name="title_activity_capturephoto">拍照</string>
+    <string name="title_activity_settings">设置</string>
+    <string name="title_activity_about">关于</string>
+    <string name="title_activity_admin">管理密码</string>
+    
+    <string name="action_settings">设置</string>    
+    <string name="action_refresh">刷新</string>    
+    <string name="action_about">关于</string>
+    <string name="action_connect">连接</string>
+    <string name="action_manage">设置</string>
+    <string name="action_btn1">签到</string>
+    <string name="action_btn2">签退</string>
+    <string name="action_btn3">认证记录</string>
+    <string name="action_btn4">用户资料</string>
+    <string name="action_btn5">系统工具</string>
+    <string name="action_btn6">设置</string>
+    <string name="action_btset">蓝牙</string>
+    <string name="action_save">保存</string>
+    <string name="action_make">制卡</string>    
+    <string name="action_back">返回</string>
+    <string name="action_capture">拍照</string>
+    <string name="action_sign">开始</string>
+    <string name="action_screen">清除</string>
+    <string name="action_view">记录</string>
+    <string name="action_return">返回</string>
+    <string name="action_signon">远程</string>
+    <string name="action_signoff">本地</string>
+    <string name="action_enroll">登记</string>
+    <string name="action_detail">查看</string>
+    <string name="action_register">编辑</string>
+    <string name="action_edit">编辑</string>
+    <string name="action_delete">删除</string>   
+    <string name="action_clear">清空</string>
+    <string name="action_query">查询</string>
+    <string name="action_logon">登录</string>    
+            
+    <string name="about_caption">关于 - OnePass软件</string>
+    <string name="about_version">版本 1.0</string>
+    <string name="about_rights">所有权利保留,2010&#8211;2016</string>
+    
+    <string name="txt_title_01">认证记录</string>
+    <string name="txt_info_01">查看认证记录</string>
+    <string name="txt_title_02">用户资料</string>
+    <string name="txt_info_02">查看登记修改用户资料</string>
+    <string name="txt_title_03">数据传输</string>
+    <string name="txt_info_03">上次或下载数据</string>
+    <string name="txt_title_04">设置</string>
+    <string name="txt_info_04">设置网络等相关 </string>
+    <string name="txt_title_05">关于</string>
+    <string name="txt_info_05">关于本程序</string>
+    
+    <string name="txt_netup1">上传用户数据</string>
+    <string name="txt_netup2">上传用户数据到服务器</string>
+    <string name="txt_netup3">上传考勤记录</string>
+    <string name="txt_netup4">上传考勤记录到服务器</string>
+    <string name="txt_netdn1">下载用户数据</string>
+    <string name="txt_netdn2">下载用户数据到设备</string>
+    
+    <string name="txt_set1">管理员管理</string>
+ 	<string name="txt_set2">修改登录密码或指纹</string>
+ 	<string name="txt_set3">系统设置</string>
+ 	<string name="txt_set4">打开系统设置界面</string>
+ 	<string name="txt_set5">网络设置</string>
+ 	<string name="txt_set6">设置网络参数等</string>
+ 	<string name="txt_set7">设备类型</string>
+ 	<string name="txt_set8">设置设备兼容类型</string>
+ 	
+	<string name="txt_status"> &#8230;</string>
+    <string name="txt_adminname">管理员</string>
+    <string name="txt_password">密码</string>
+    <string name="txt_date">日期</string>
+    <string name="txt_datetime">日期时间</string>
+    <string name="txt_statu">状态</string>
+    <string name="txt_gender">性别</string>
+    <string name="txt_phone">电话</string>
+    <string name="txt_remark">备注</string>
+    <string name="txt_query">查询类别</string>
+    <string name="txt_count">记录数:0</string>
+    <string name="txt_selall">全部</string>
+    <string name="txt_selact">管理员</string>
+    <string name="txt_selict">普通</string>
+    <string name="txt_userid">编号</string>
+    <string name="txt_username">姓名</string>
+    <string name="txt_usertype">类型</string>
+    <string name="txt_male">男</string>
+    <string name="txt_female">女</string>
+    <string name="txt_identype">识别方式</string>
+    <string name="txt_finer1">指纹一</string>
+    <string name="txt_finer2">指纹二</string>
+    <string name="txt_finer3">指纹三</string>
+    <string name="txt_card">智能卡</string>
+    <string name="txt_card13">13.56M智能卡</string>
+    <string name="txt_card24">2.4G智能卡</string>
+    <string name="txt_bardcode1">1D条码</string>
+    <string name="txt_bardcode2">2D条码</string>
+    <string name="txt_photo">照片</string>
+    <string name="txt_lat">纬度</string>
+    <string name="txt_lng">经度</string>
+    <string name="txt_fplogon">登录</string>
+    
+    <string name="txt_fingerplace">请按手指&#8230;</string>    
+    <string name="txt_fpbegin">开始识别</string>
+    <string name="txt_fpplace">请按手指!</string>
+    <string name="txt_fpdisplay">显示指纹图像 &#8230;</string>
+    <string name="txt_fpprocess">开始处理 &#8230;</string>
+    <string name="txt_fpidentify">开始识别 &#8230;</string>
+    <string name="txt_fpfail">生成失败!</string>
+    <string name="txt_fpmatchok">指纹识别成功!</string>
+    <string name="txt_fpmatchfail">指纹识别失败!</string>
+    <string name="txt_cardmath">卡识别成功</string>
+    <string name="txt_cardsn">卡号:</string>
+    <string name="txt_fpmatching">比对中 &#8230;</string>
+    <string name="txt_snerror">序列号错误</string>
+    <string name="txt_fpclick">点击指纹图标开始</string>
+    <string name="txt_enrolinfo1">没有登记用户</string>
+    <string name="txt_enrolinfo2">请登记用户</string>
+    <string name="txt_exitinfo">再按一次退出程序</string>
+    
+    <!-- Barcode Zxing -->
+    <string name="placeHolder">placeHolder</string>
+    <string name="seekbar_add">+</string>
+    <string name="seekbar_minus">-</string>
+    <string name="create">生成</string>
+    <string name="scan_failed">扫描失败</string>
+    <string name="bottom_hint">建议与镜头保持10CM距离，尽量避免逆光和阴影</string>
+    <string name="top_hint">将条形码或二维码置于取景框内系统会自动扫描</string>
+    <string name="cancel">取消</string>
+    <string name="msg_camera_framework_bug">抱歉，相机出现问题。请检查设备。</string>
+    <string name="button_ok">确定</string>
+    
+    <string name="capture_tophint">请将目标置于取景框内</string>
+    <string name="capture_bothint">尽量避免逆光和阴影\n点击取景框或图片按钮拍照</string>
+    <string name="capture_caphint">拍照中,请等待 &#8230;</string>
+        
+    <!-- Bluetooth   -->
+    <string name="scanning">扫描蓝牙设备 &#8230;</string>
+    <string name="title_select_device">选择一个蓝牙设备连接</string>
+    <string name="none_paired">没有配对蓝牙设备</string>
+    <string name="none_found">没有找到蓝牙设备</string>
+    <string name="title_paired_devices">配对蓝牙设备</string>
+    <string name="title_other_devices">其它有效蓝牙设备</string>
+    <string name="button_scan">扫描蓝牙设备</string>
+    
+    <!-- Setting   -->
+    <string name="target_ip">NET服务器地址</string>
+    <string name="default_target_ip">192.168.1.106</string>
+    <string name="target_port">NET服务器端口</string>
+    <string name="default_target_port">5002</string>
+    <string name="web_addr">HTTP服务器地址</string>
+    <string name="default_web_addr">http://192.168.1.138/</string>
+    <string name="web_update">更新地址</string>
+    <string name="default_web_update">http://192.168.1.138/</string>
+    <string name="login_user">登录账号</string>
+    <string name="default_login_user">xpb</string>
+    <string name="login_password">登录密码</string>
+    <string name="default_login_password">1010</string>    
+    <string name="device_sn">设备序列号</string>
+    <string name="default_device_sn">00001</string>
+    <string name="networkcfg">Netware Setting</string>
+    <string name="not_null">Not null</string>
+    <string name="net_status">Net Status</string>
+    <string name="net_setting">System Setting</string>
+    
+    <string name="txt_upd01">软件版本更新</string>
+    <string name="txt_upd02">立即更新</string>
+    <string name="txt_upd03">以后再说</string>
+    <string name="txt_upd04">正在下载安装包</string>
+    <string name="txt_upd05">取消</string>
+    <string name="txt_upd06">无法下载安装文件，请检查SD卡是否挂载</string>
+    <string name="txt_upd07">网络不给力啊</string>
+    <string name="txt_upd08">未找到资源</string>
+    <string name="txt_upd09">正在检测，请稍后 &#8230;</string>
+    <string name="txt_upd10">您当前已经是最新版本</string>
+    <string name="txt_upd11">无法获取版本更新信息</string>
+    <string name="txt_upd12">网络故障，无法连接服务器</string>
+    
+    <!-- String List   -->
+    <string name="us_prompt">请选择</string>     
+    <string-array name="us1_array"> 
+        <item>管理</item>
+        <item>普通</item>
+    </string-array>
+    <string-array name="us2_array"> 
+        <item>全部</item>
+        <item>指纹</item>
+        <item>智能卡</item>
+        <item>条码</item>
+        <item>指纹卡</item>
+    </string-array>
+    <string-array name="us3_array"> 
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="quy_array">
+        <item>全部</item> 
+        <item>编号</item> 
+        <item>姓名</item>
+    </string-array> 
+</resources>
+
