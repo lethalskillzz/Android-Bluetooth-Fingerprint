@@ -11,7 +11,7 @@ public class Conversions {
 			mCom=new Conversions();
 		}
 		return mCom;
-	}
+	}    
 	
 	public native int StdToIso(int itype,byte[] input,byte[] output);
 	public native int IsoToStd(int itype,byte[] input,byte[] output);
