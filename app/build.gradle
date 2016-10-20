@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 //apply plugin: 'me.tatarka.retrolambda'
 
 //def AAVersion = '3.3'
-
+        
 android {
     compileSdkVersion 24
     buildToolsVersion "24.0.0"
