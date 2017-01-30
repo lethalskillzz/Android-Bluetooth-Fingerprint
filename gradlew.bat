@@ -39,7 +39,7 @@ if exist "%JAVA_EXE%" goto init
 
 echo.
 echo ERROR: JAVA_HOME is set to an invalid directory: %JAVA_HOME%
-echo.
+echo. 
 echo Please set the JAVA_HOME variable in your environment to match the
 echo location of your Java installation.
 
@@ -83,7 +83,7 @@ rem Set variable GRADLE_EXIT_CONSOLE if you need the _script_ return code instea
 rem the _cmd.exe /c_ return code!
 if  not "" == "%GRADLE_EXIT_CONSOLE%" exit 1
 exit /b 1
-
+     
 :mainEnd
 if "%OS%"=="Windows_NT" endlocal
 
