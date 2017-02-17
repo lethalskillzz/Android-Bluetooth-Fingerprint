@@ -33,7 +33,7 @@ so manually move them:
 * obj\local\armeabi\objs\fpcore\
 * obj\local\armeabi\objs\fpcore\fpcore.o
 * obj\local\armeabi\objs\fpcore\fpcore.o.d
-* proguard-project.txt
+* proguard-project.txt    
 
 Replaced Jars with Dependencies:
 --------------------------------
