@@ -3,12 +3,13 @@ Android Clock-In with HF7000 Bluetooth fingerprint reader http://bit.ly/2cSRnFK 
 Back-end https://github.com/lethalskillzz/Android-Fingerprint-Attendance-Server
 
 
-## Screenshots from the app.<br><br>  
+## Screenshots<br><br>  
 
- <img src="/screen/Screenshot_2016-09-19-08-44-07.png"><br><br>
- <img src="/screen/Screenshot_2016-09-19-08-44-15.png"><br><br>
- <img src="/screen/Screenshot_2016-09-19-08-46-45.png"><br><br>
- <img src="/screen/Screenshot_2016-09-19-08-47-16.png"><br><br> 
- <img src="/screen/Screenshot_2016-09-19-08-47-45.png"><br><br>   
-
+<p align="center">
+ <img src="/screen/Screenshot_2016-09-19-08-44-07.png" width="30%">
+ <img src="/screen/Screenshot_2016-09-19-08-44-15.png" width="30%">
+ <img src="/screen/Screenshot_2016-09-19-08-46-45.png" width="30%">
+ <img src="/screen/Screenshot_2016-09-19-08-47-16.png" width="30%">
+ <img src="/screen/Screenshot_2016-09-19-08-47-45.png" width="30%">
+</p>
    
