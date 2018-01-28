@@ -1,5 +1,5 @@
-# Android Fingerprint Attendance
-Android Clock-In with HF7000 Bluetooth fingerprint reader http://bit.ly/2cSRnFK <br>
+# Android Bluetooth Fingerprint
+Android Bluetooth fingerprint reader<br>
 Back-end https://github.com/lethalskillzz/Android-Fingerprint-Attendance-Server
 
 
