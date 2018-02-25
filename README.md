@@ -1,6 +1,6 @@
 # Android Bluetooth Fingerprint
-Android Bluetooth fingerprint reader<br>
-Back-end https://github.com/lethalskillzz/Android-Fingerprint-Attendance-Server
+Android Bluetooth fingerprint<br>
+Webservice https://github.com/lethalskillzz/Android-Fingerprint-Attendance-Server
 
 
 [//]: # (## Screenshots<br><br>)  
