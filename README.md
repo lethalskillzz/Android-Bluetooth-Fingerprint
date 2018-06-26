@@ -3,7 +3,7 @@ Android Bluetooth fingerprint<br>
 Webservice https://github.com/lethalskillzz/Android-Fingerprint-Attendance-Server
 
 
-# (## Screenshots<br><br>)  
+## Screenshots<br><br>
 
 [//]: # (<p align="center">)
  [//]: # (<img src="/screen/Screenshot_2016-09-19-08-44-07.png" width="30%">)
